@@ -1,3 +1,6 @@
 creacion de un segundo archivo
 añadir una nueva linea
 añadir otra linea
+añadir otra linea
+======
+añadir tercera linea
